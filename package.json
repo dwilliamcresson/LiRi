@@ -1,0 +1,25 @@
+{
+  "name": "liri",
+  "version": "0.8.0",
+  "description": "Ask and you might just find out",
+  "main": "index.js",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "node-twitter-api": "^1.8.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwilliamcresson/LiRi.git"
+  },
+  "author": "David William Cresson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwilliamcresson/LiRi/issues"
+  },
+  "homepage": "https://github.com/dwilliamcresson/LiRi#readme"
+}
